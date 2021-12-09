@@ -1,4 +1,4 @@
-## Welcome to the `IeDEA-SA` organizational Github account 👋
+## Welcome to the `IeDEA-SA` organizational GitHub account 👋
 
 This place is designed to collect the code used for various projects implemented within the group.  
 
